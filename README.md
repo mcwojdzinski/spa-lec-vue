@@ -1,6 +1,6 @@
 # spa-lec-vue-1
 
-This template should help get you started developing with Vue 3 in Vite.
+Live version of the project: [Click here!](https://spa-vue-lec-1and2.netlify.app/)
 
 ## Recommended IDE Setup
 
